@@ -11,6 +11,7 @@ OTHER_FILES += main.qml \
                LanguagePage.qml \
                TimePage.qml \
                DatePage.qml \
+               VibrationPage.qml \
                BluetoothPage.qml \
                BrightnessPage.qml \
                SoundPage.qml \

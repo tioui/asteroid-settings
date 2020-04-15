@@ -3,6 +3,14 @@
 <TS version="2.1" language="sk">
 <context>
     <name></name>
+    <message id="id-vibration-on">
+        <source>Vibration on</source>
+        <translation>Vibration zapnutý</translation>
+    </message>
+    <message id="id-vibration-off">
+        <source>Vibration off</source>
+        <translation>Vibration vypnutý</translation>
+    </message>
     <message id="id-bluetooth-on">
         <source>Bluetooth on</source>
         <translation>Bluetooth zapnutý</translation>
@@ -66,6 +74,10 @@
     <message id="id-language-page">
         <source>Language</source>
         <translation>Jazyk</translation>
+    </message>
+    <message id="id-vibration-page">
+        <source>Vibration</source>
+		<translation></translation>
     </message>
     <message id="id-bluetooth-page">
         <source>Bluetooth</source>

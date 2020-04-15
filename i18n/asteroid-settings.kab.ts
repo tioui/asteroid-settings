@@ -3,6 +3,14 @@
 <TS version="2.1" language="kab">
 <context>
     <name></name>
+    <message id="id-vibration-on">
+        <source>Vibration on</source>
+        <translation>Vibration irmed</translation>
+    </message>
+    <message id="id-vibration-off">
+        <source>Vibration off</source>
+        <translation>Vibration insa</translation>
+    </message>
     <message id="id-bluetooth-on">
         <source>Bluetooth on</source>
         <translation>Bluetooth irmed</translation>
@@ -66,6 +74,10 @@
     <message id="id-language-page">
         <source>Language</source>
         <translation>Tutlayt</translation>
+    </message>
+    <message id="id-vibration-page">
+        <source>Vibration</source>
+		<translation></translation>
     </message>
     <message id="id-bluetooth-page">
         <source>Bluetooth</source>

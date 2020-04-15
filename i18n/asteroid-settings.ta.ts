@@ -3,6 +3,14 @@
 <TS version="2.1" language="ta">
 <context>
     <name></name>
+    <message id="id-vibration-on">
+        <source>Vibration on</source>
+        <translation>ப்ளூடூத் இயக்கத்தில்</translation>
+    </message>
+    <message id="id-vibration-off">
+        <source>Vibration off</source>
+        <translation>ப்ளூடூத் முடக்கத்தில்</translation>
+    </message>
     <message id="id-bluetooth-on">
         <source>Bluetooth on</source>
         <translation>ப்ளூடூத் இயக்கத்தில்</translation>
@@ -66,6 +74,10 @@
     <message id="id-language-page">
         <source>Language</source>
         <translation>மொழி</translation>
+    </message>
+    <message id="id-vibration-page">
+        <source>Vibration</source>
+		<translation></translation>
     </message>
     <message id="id-bluetooth-page">
         <source>Bluetooth</source>

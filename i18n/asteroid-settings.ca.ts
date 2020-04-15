@@ -3,6 +3,14 @@
 <TS version="2.1" language="ca">
 <context>
     <name></name>
+    <message id="id-vibration-on">
+        <source>Vibration on</source>
+        <translation>Vibration activat</translation>
+    </message>
+    <message id="id-vibration-off">
+        <source>Vibration off</source>
+        <translation>Vibration apagat</translation>
+    </message>
     <message id="id-bluetooth-on">
         <source>Bluetooth on</source>
         <translation>Bluetooth activat</translation>
@@ -66,6 +74,10 @@
     <message id="id-language-page">
         <source>Language</source>
         <translation>Idioma</translation>
+    </message>
+    <message id="id-vibration-page">
+        <source>Vibration</source>
+        <translation></translation>
     </message>
     <message id="id-bluetooth-page">
         <source>Bluetooth</source>

@@ -1,4 +1,5 @@
 /*
+ * Copyright (C) 2020 - Louis Marchand <prog@tioui.com>
  * Copyright (C) 2016 - Sylvia van Os <iamsylvie@openmailbox.org>
  * Copyright (C) 2015 - Florent Revest <revestflo@gmail.com>
  *
@@ -29,6 +30,7 @@ Application {
     Component { id: timeLayer;       TimePage       { } }
     Component { id: dateLayer;       DatePage       { } }
     Component { id: languageLayer;   LanguagePage   { } }
+    Component { id: vibrationLayer;  VibrationPage  { } }
     Component { id: bluetoothLayer;  BluetoothPage  { } }
     Component { id: brightnessLayer; BrightnessPage { } }
     Component { id: soundLayer;      SoundPage      { } }
@@ -83,7 +85,13 @@ Application {
                     onClicked: layerStack.push(languageLayer)
                 }
                 ListItem {
-                    //% "Bluetooth"
+                    //% "Vibration"
+                    title: qsTrId("id-vibration-page")
+                    iconName: "ios-watch-vibrating"
+                    onClicked: layerStack.push(vibrationLayer)
+                }
+                ListItem {
+                    //% "Bluetooth
                     title: qsTrId("id-bluetooth-page")
                     iconName: "ios-bluetooth-outline"
                     onClicked: layerStack.push(bluetoothLayer)

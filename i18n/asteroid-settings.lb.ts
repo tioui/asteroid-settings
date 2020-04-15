@@ -3,6 +3,16 @@
 <TS version="2.1" language="lb">
 <context>
     <name></name>
+    <message id="id-vibration-on">
+        <location filename="../VibrationPage.qml" line="28"/>
+        <source>Vibration on</source>
+        <translation></translation>
+    </message>
+    <message id="id-vibration-off">
+        <location filename="../VibrationPage.qml" line="30"/>
+        <source>Vibration off</source>
+        <translation>Vibration aus</translation>
+    </message>
     <message id="id-bluetooth-on">
         <location filename="../BluetoothPage.qml" line="28"/>
         <source>Bluetooth on</source>
@@ -90,6 +100,11 @@
         <location filename="../main.qml" line="81"/>
         <source>Language</source>
         <translation>Sprooch</translation>
+    </message>
+    <message id="id-vibration-page">
+        <location filename="../main.qml" line="87"/>
+        <source>Vibration</source>
+		<translation></translation>
     </message>
     <message id="id-bluetooth-page">
         <location filename="../main.qml" line="87"/>
